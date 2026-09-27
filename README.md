@@ -1,5 +1,11 @@
 # BDA Practice 2 — Medical Data Pipeline with Knowledge Graphs
 
+![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue?logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-3.5-E25A1C?logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/Database-DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Topic](https://img.shields.io/badge/Topic-Knowledge_Graphs-orange)
+![Project](https://img.shields.io/badge/Project-Coursework-lightgrey)
+
 End-to-end Data Science pipeline that ingests medical datasets from Kaggle,
 progressively refines them across five zones (Landing → Formatted → Trusted →
 Exploitation → Analysis), generates a semantic RDF/RDFS **Knowledge Graph** for
